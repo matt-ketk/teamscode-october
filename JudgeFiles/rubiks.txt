@@ -1,0 +1,3 @@
+2
+R U R' U R U U R'
+R L F

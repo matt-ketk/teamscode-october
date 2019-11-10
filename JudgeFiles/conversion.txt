@@ -1,0 +1,16 @@
+2
+5
+1 km/s equals 1000 m/s
+200 cm/s equals 2 m/s
+60 mph equals 1 mi/min
+1 mi/s equals 60 mi/min
+5 mi/s equals 804672 cm/s
+5 km/s to mph
+6
+1 benjamin equals 2 grant
+5 jackson equals 2 grant
+1 jackson equals 2 hamilton
+5 hamilton equals 10 lincoln
+1 lincoln equals 5 washington
+2 grant equals 10 hamilton
+100 benjamin to washington
